@@ -1,4 +1,3 @@
-# diagnostico-compliance-duran-sindreu
 <!DOCTYPE html>
 <html lang="es">
 <head>
